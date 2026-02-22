@@ -24,7 +24,7 @@ npm run dev
 
 Сайт будет доступен по адресу:
 ```
-https://kvzvkov.github.io/fireplay/
+https://<твой-никнейм>.github.io/fireplay/
 ```
 
 ## Технологии
